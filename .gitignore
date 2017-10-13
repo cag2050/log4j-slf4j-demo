@@ -1,5 +1,8 @@
 .git
 .Ds_Store
+
 .idea
 *.iml
+out
+
 *.jar
